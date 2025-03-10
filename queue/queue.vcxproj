@@ -131,6 +131,7 @@
     <ClCompile Include="queue.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="cash_register.h" />
     <ClInclude Include="customer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
