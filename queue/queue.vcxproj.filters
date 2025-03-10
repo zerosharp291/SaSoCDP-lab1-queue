@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="queue.h">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
+    <ClInclude Include="customer.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="customer.h">
+    <ClCompile Include="queue.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
