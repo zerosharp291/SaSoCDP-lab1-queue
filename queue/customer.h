@@ -39,4 +39,8 @@ public:
 		delete _cart;
 	}
 
+	addtocart(T x) {
+		_cart.products.push(x)
+	}
+
 };

@@ -30,4 +30,7 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="customers_list.txt" />
+  </ItemGroup>
 </Project>
